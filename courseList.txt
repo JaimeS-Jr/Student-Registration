@@ -1,0 +1,6 @@
+UML,100001,04/02/2018,Universal Model Language,3,0,true,
+OO Analys Degn,100002,04/02/2018,Object Oriented Analysis and Design,3,0,true,
+CourseName 3,100003,04/02/2018,Course Desc 3,3,3,false,
+CourseName 4,100004,04/02/2018,Course Desc 4,3,0,true,
+CoureseName 5,100005,04/02/2018,Course Desc 5,3,0,true,
+Data Structure,100006,04/02/2018,Data Structure and Algorithm,3,0,true,
